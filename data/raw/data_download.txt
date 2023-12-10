@@ -1,0 +1,1 @@
+https://fetch-hiring.s3.amazonaws.com/data-scientist/data-scientist-take-home-instructions.html
